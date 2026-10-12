@@ -50,8 +50,8 @@ An Arduino-based parking system designed to help monitor and manage available pa
 ## Certifications
 
 - **Java**  
-  [View certificate (PDF) →](./certificates/Java Fundamentals.pdf)
+  [View certificate (PDF) →](./assets/Java%20Fundamentals.pdf)
 
 - **Full Stack Web Development** — Udemy  
-  [View certificate (PDF) →](./certificates/UDEMY_CERTIFICATE.pdf)
+  [View certificate (PDF) →](./UDEMY_CERTIFICATE.pdf)
 
