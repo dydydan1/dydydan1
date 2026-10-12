@@ -46,3 +46,12 @@ A web application built for X-Icon Garage.
 An Arduino-based parking system designed to help monitor and manage available parking spaces.
 
 [View project →](https://github.com/dydydan1/RayParkPartialPrototype)
+
+## Certifications
+
+- **Java**  
+  [View certificate (PDF) →](./certificates/Java Fundamentals.pdf)
+
+- **Full Stack Web Development** — Udemy  
+  [View certificate (PDF) →](./certificates/UDEMY_CERTIFICATE.pdf)
+
