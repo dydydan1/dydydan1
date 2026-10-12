@@ -1,0 +1,20 @@
+<svg width="1280" height="260" viewBox="0 0 1280 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1280" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#861DA3"/>
+      <stop offset="0.52" stop-color="#2C5F9C"/>
+      <stop offset="1" stop-color="#00878B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="260" fill="url(#gradient)"/>
+  <path d="M330 260C620 175 930 294 1280 185V260H330Z" fill="#0D1117"/>
+
+  <text x="64" y="76" fill="#D8F0FF" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="3">
+    FULL-STACK DEVELOPER
+  </text>
+
+  <text x="64" y="145" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">
+    DY ANN RAZONADO
+  </text>
+</svg>
