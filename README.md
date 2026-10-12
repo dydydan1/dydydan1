@@ -18,8 +18,8 @@ React.js · Node.js · Express.js · MySQL
 **Database**  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, and Postman" />
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,figma,vscode&theme=dark" alt="Git, GitHub, Postman, AWS, Figma, and VS Code" />
 
 ## Selected projects
 
