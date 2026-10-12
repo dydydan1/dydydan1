@@ -1,16 +1,31 @@
-## Hi there 👋
+![Profile header](./assets/header.svg)
 
-<!--
-**dydydan1/dydydan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building clean and functional web applications.  
+React.js · Node.js · Express.js · MySQL  
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/razonado-dy-ann-4a7011352/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech stack
+
+| Focus | Tools |
+| --- | --- |
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Database | MySQL |
+| Tools | Git, GitHub, Postman |
+
+## Selected projects
+
+### 01 — Full-stack Todo List
+
+A task manager built with React.js, Node.js, Express.js, and MySQL.
+
+[View project →](https://github.com/dydydan1/CRUD_REACT)
+
+### 02 — ASG GymHub
+
+Capstone project focused on creating a better gym experience.
+
+[View project →](https://github.com/dydydan1/Gymhub)
