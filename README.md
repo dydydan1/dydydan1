@@ -9,10 +9,12 @@ React.js · Node.js · Express.js · MySQL
 
 ## Tech stack
 
-**Frontend** — React.js  
-**Backend** — Node.js · Express.js  
-**Database** — MySQL  
-**Tools** — Git · GitHub · Postman 
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,git,github,postman&theme=dark&perline=7"
+    alt="React.js, Node.js, Express.js, MySQL, Git, GitHub, and Postman"
+  />
+</p>
 
 ## Selected projects
 
