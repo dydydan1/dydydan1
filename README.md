@@ -34,3 +34,15 @@ A task manager built with React.js, Node.js, Express.js, and MySQL.
 Capstone project focused on creating a better gym experience.
 
 [View project →](https://github.com/dydydan1/Gymhub)
+
+### 03 — X-Icon Garage
+
+A web application built for X-Icon Garage.
+
+[View project →](https://github.com/dydydan1/X-Icon_Garage_Landing_Page)
+
+### 04 — RayPark
+
+An Arduino-based parking system designed to help monitor and manage available parking spaces.
+
+[View project →](https://github.com/dydydan1/RayParkPartialPrototype)
