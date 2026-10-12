@@ -9,12 +9,10 @@ React.js · Node.js · Express.js · MySQL
 
 ## Tech stack
 
-| Focus | Tools |
-| --- | --- |
-| Frontend | React.js |
-| Backend | Node.js, Express.js |
-| Database | MySQL |
-| Tools | Git, GitHub, Postman |
+**Frontend** — React.js  
+**Backend** — Node.js · Express.js  
+**Database** — MySQL  
+**Tools** — Git · GitHub · Postman 
 
 ## Selected projects
 
