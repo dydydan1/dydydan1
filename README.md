@@ -47,6 +47,13 @@ An Arduino-based parking system designed to help monitor and manage available pa
 
 [View project →](https://github.com/dydydan1/RayParkPartialPrototype)
 
+### 05 — CrumbCoded
+
+CrumCoded is a QR-based digital greeting platform that lets customers create personalized surprise messages for their loved ones through scannable QR codes.
+
+[View project →](https://github.com/dydydan1/CakeSurprise)
+
+
 ## Certifications
 
 - **Java**  
